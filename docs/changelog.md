@@ -1,4 +1,7 @@
 # Changelog
+## [0.1.2] - 2019-10-31
+### Added
+- license file
 
 ## [0.1.1] - 2019-05-24
 ### Fixed
