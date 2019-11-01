@@ -4,7 +4,7 @@
 ### Added
 - distribute license with the package
 
-## [0.1.2] - 2019-10-31
+## [0.1.2] - 2019-11-01
 ### Added
 - license file
 
