@@ -1,3 +1,10 @@
+# ⛔️ DEPRECATED 
+
+This project is no longer actively maintained or supported.
+
+
+---
+
 # veracitools
 
 [![Build Status](https://travis-ci.org/pepkit/veracitools.svg?branch=master)](https://travis-ci.org/pepkit/veracitools)

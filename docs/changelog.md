@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.5] - 2025-09-22
+### Changed
+- Final update to README, project is now deprecated.
+
 ## [0.1.4] - 2022-01-25
 ### Fixed
 - removed use_2to3 for compatibility with setuptools >= 58
